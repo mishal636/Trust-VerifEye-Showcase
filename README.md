@@ -1,6 +1,5 @@
-<div>
-  <img src="banner.svg" alt="Trust VerifEye ASCII Banner">
-</div>
+<div align="center">
+  <img src="banner.svg" alt="Trust VerifEye Banner" width="100%">
 
 # 👁️ Trust VerifEye: AI-Powered Phishing & Scam Shield
 
