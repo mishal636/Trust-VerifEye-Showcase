@@ -1,12 +1,19 @@
 <div align="center">
-  <img src="banner.svg" alt="Trust VerifEye ASCII Banner">
+
+<img src="verifeye_banner.svg" alt="Trust VerifEye Banner" width="100%">
+
+<br>
+
+[![Google Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Gemini API](https://img.shields.io/badge/AI-Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)](#)
+[![Security](https://img.shields.io/badge/Security-Blue_Team-10b981?style=for-the-badge&logo=shield&logoColor=white)](#)
+
+*Acting as a real-time Security Operations Center (SOC) inside your browser with a 'Bring Your Own Key' (BYOK) architecture.*
+
 </div>
 
-# 👁️ Trust VerifEye: AI-Powered Phishing & Scam Shield
-
-[![Chrome Web Store](https://img.shields.io/badge/Available_on-Chrome_Web_Store-blue?logo=googlechrome&logoColor=white)](#)
-[![Manifest V3](https://img.shields.io/badge/Extension-Manifest_V3-green)](#)
-[![Gemini API](https://img.shields.io/badge/Powered_by-Google_Gemini-8E75B2?logo=google&logoColor=white)](#)
+<br>
 
 > **Trust VerifEye** is a localized, privacy-first Chrome Extension that acts as a personal Security Operations Center (SOC) analyst for everyday users. It evaluates domain integrity in real-time and leverages Large Language Models (LLMs) to detect sophisticated phishing attempts, fake stores, and structural web risks.
 
