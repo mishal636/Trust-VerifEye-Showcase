@@ -1,15 +1,3 @@
-Here is a complete, professional Privacy Policy tailored exactly to how your "Trust VerifEye" extension works. 
-
-Google requires this document to clearly explain what data you touch and where it goes. Since your extension is highly secure and stores everything locally, this policy reflects that commitment to user privacy, which reviewers love to see.
-
-**What to do with this:**
-1. Copy the text below.
-2. Paste it into a Google Doc, Notion page, or a free GitHub Pages site.
-3. If using Google Docs, click "Share" -> "Anyone with the link can view".
-4. Paste that public link into the "Privacy Policy" field in your Chrome Web Store developer dashboard.
-
-***
-
 # Privacy Policy for Trust VerifEye
 
 **Effective Date:** [Insert Today's Date]
