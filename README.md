@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="banner.svg" alt="Trust VerifEye ASCII Banner">
 </div>
 
