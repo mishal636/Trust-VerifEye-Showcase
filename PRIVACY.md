@@ -1,6 +1,6 @@
 # Privacy Policy for Trust VerifEye
 
-**Effective Date:** [Insert Today's Date]
+**Effective Date:** 25/04/2026
 
 Thank you for choosing Trust VerifEye. This extension is independently engineered and maintained by [Mishal](https://mishal.work) ("we", "us", or "our"). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how our Chrome Extension handles your data.
 
