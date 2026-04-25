@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="verifeye_banner.svg" alt="Trust VerifEye Banner" width="100%">
+<img src="banner.svg" alt="Trust VerifEye Banner" width="100%">
 
 <br>
 
