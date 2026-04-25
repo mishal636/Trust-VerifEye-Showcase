@@ -10,7 +10,8 @@
 
 > **Trust VerifEye** is a localized, privacy-first Chrome Extension that acts as a personal Security Operations Center (SOC) analyst for everyday users. It evaluates domain integrity in real-time and leverages Large Language Models (LLMs) to detect sophisticated phishing attempts, fake stores, and structural web risks.
 
-![Trust VerifEye Dashboard]([INSERT_A_LINK_TO_A_SCREENSHOT_OR_GIF_OF_YOUR_UI_HERE])
+![Trust VerifEye Dashboard](<img width="424" height="640" alt="trustverifeye" src="https://github.com/user-attachments/assets/baf6845d-a317-420b-acee-0cadf322f5e0" />
+)
 *View the live extension on the [Chrome Web Store]([INSERT_WEB_STORE_LINK_HERE]).*
 
 ---
@@ -59,7 +60,7 @@ As a cybersecurity tool, user privacy is the foundational design principle.
 
 | Safe State (Verified) | Warning State (Triaged) | SOC Analytics Dashboard |
 |:---:|:---:|:---:|
-| <img src="[LINK_TO_SAFE_SCREENSHOT]" width="250"> | <img src="[LINK_TO_WARN_SCREENSHOT]" width="250"> | <img src="[LINK_TO_DASHBOARD_SCREENSHOT]" width="250"> |
+| <img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250"> | <img src="[LINK_TO_WARN_SCREENSHOT]" width="250"> | <img src="[LINK_TO_DASHBOARD_SCREENSHOT]" width="250"> |
 
 ---
 
