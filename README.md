@@ -42,7 +42,7 @@ This project was built entirely with vanilla web technologies to maintain an ult
 - **Core:** JavaScript (ES6+), HTML5, CSS3.
 - **Extension API:** Chrome Manifest V3 (Service Workers, Local Storage, Messaging API).
 - **AI Integration:** Google Gemini REST API (`gemini-3.1-flash-lite-preview`).
-- **UI/UX:** Custom CSS Glassmorphism 3.0, dynamic SVG rendering, and localized React-style state management without external frameworks.
+- **UI/UX:** Custom CSS Glassmorphism 2.0, and localized React-style state management without external frameworks.
 
 ---
 
