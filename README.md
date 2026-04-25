@@ -60,9 +60,11 @@ As a cybersecurity tool, user privacy is the foundational design principle.
 
 | 🟢 Safe State | 🟡 Warning State | 🔴 Critical Block |
 |:---:|:---:|:---:|
-| <img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250" alt="Safe State"> | <img src="screenshots/warning_state.png" width="280" alt="Warning State"> | <img src="screenshots/block_state.png" width="280" alt="Critical Block"> |
+| <img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250" alt="Safe State"> | <img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/f0d8c98c-531d-4be6-b7d9-8d05ca18d2d2" alt="Warning State"> | <img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/8f6566c1-c0d5-4376-9feb-dfc64cba6b91" alt="Critical Block"> |
+
 | *Verified domain integrity* | *Heuristic flags detected* | *AI-confirmed phishing trap* |
-<img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250">
+
+
 ---
 
 ## 📊 SOC Analytics Dashboard
