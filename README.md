@@ -69,7 +69,7 @@ As a cybersecurity tool, user privacy is the foundational design principle.
 ## 📊 SOC Analytics Dashboard
 
 <div align="center">
-  <img width="424" height="640" alt="trustverifeye" src="[https://github.com/user-attachments/assets/f06ce236-c018-4780-b5dd-4229c7662cb5](https://github.com/user-attachments/assets/ec233d72-53d8-4c5f-be2d-9b34ba6ad35c)" alt="Telemetry Dashboard">
+  <video width="424" height="640" alt="trustverifeye" src="[https://github.com/user-attachments/assets/f06ce236-c018-4780-b5dd-4229c7662cb5](https://github.com/user-attachments/assets/ec233d72-53d8-4c5f-be2d-9b34ba6ad35c)" alt="Telemetry Dashboard">
   <p><i>The localized telemetry engine tracking your personal "Trust Quotient" and risk history.</i></p>
 </div>
 
