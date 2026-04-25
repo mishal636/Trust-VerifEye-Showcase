@@ -58,9 +58,19 @@ As a cybersecurity tool, user privacy is the foundational design principle.
 
 ## 📸 Interface Showcase
 
-| Safe State (Verified) | Warning State (Triaged) | SOC Analytics Dashboard |
+| 🟢 Safe State | 🟡 Warning State | 🔴 Critical Block |
 |:---:|:---:|:---:|
-| <img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250"> | <img src="[LINK_TO_WARN_SCREENSHOT]" width="250"> | <img src="[LINK_TO_DASHBOARD_SCREENSHOT]" width="250"> |
+| <img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250" alt="Safe State"> | <img src="screenshots/warning_state.png" width="280" alt="Warning State"> | <img src="screenshots/block_state.png" width="280" alt="Critical Block"> |
+| *Verified domain integrity* | *Heuristic flags detected* | *AI-confirmed phishing trap* |
+<img width="319" height="479" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250">
+---
+
+## 📊 SOC Analytics Dashboard
+
+<div align="center">
+  <img src="screenshots/dashboard.png" width="600" alt="Telemetry Dashboard">
+  <p><i>The localized telemetry engine tracking your personal "Trust Quotient" and risk history.</i></p>
+</div>
 
 ---
 
