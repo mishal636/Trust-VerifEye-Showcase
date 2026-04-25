@@ -60,7 +60,7 @@ As a cybersecurity tool, user privacy is the foundational design principle.
 
 | 🟢 Safe State | 🟡 Warning State | 🔴 Critical Block |
 |:---:|:---:|:---:|
-| <img width="638" height="958" alt="image" src="https://github.com/user-attachments/assets/6fc52e2e-0617-46f3-b380-3ba34f8e28b9" width="250" alt="Safe State"> | <img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/f0d8c98c-531d-4be6-b7d9-8d05ca18d2d2" alt="Warning State"> | <img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/8f6566c1-c0d5-4376-9feb-dfc64cba6b91" alt="Critical Block"> |
+| <img width="1280" height="800" alt="safestate" src="https://github.com/user-attachments/assets/120fe54b-7f68-4a3d-94c2-4f78ef263a62" alt="Safe State"> | <img width="1280" height="800" alt="warningstate" src="https://github.com/user-attachments/assets/88c88768-760e-4118-9e6e-8a39037ca7da" alt="Warning State"> | <img width="1280" height="800" alt="criticalstate" src="https://github.com/user-attachments/assets/585aab81-0460-48dd-bbb5-b15d1fe782cb" alt="Critical Block"> |
 
 | *Verified domain integrity* | *Heuristic flags detected* | *AI-confirmed phishing trap* |
 
@@ -69,9 +69,13 @@ As a cybersecurity tool, user privacy is the foundational design principle.
 ## 📊 SOC Analytics Dashboard
 
 <div align="center">
-  <video width="424" height="640" alt="trustverifeye" src="[https://github.com/user-attachments/assets/f06ce236-c018-4780-b5dd-4229c7662cb5](https://github.com/user-attachments/assets/ec233d72-53d8-4c5f-be2d-9b34ba6ad35c)" alt="Telemetry Dashboard">
+   <img width="1280" height="600" alt="soc1_4_11zon" src="https://github.com/user-attachments/assets/3e9be97e-b7da-4a14-97ea-c5dddf03f3ac" alt="Telemetry Dashboard">
   <p><i>The localized telemetry engine tracking your personal "Trust Quotient" and risk history.</i></p>
 </div>
+
+
+ 
+
 
 
 
