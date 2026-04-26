@@ -5,9 +5,9 @@
 <br>
 
 [![Google Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Gemini API](https://img.shields.io/badge/AI-Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)](#)
 [![Security](https://img.shields.io/badge/Security-Blue_Team-10b981?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
 *Acting as a real-time Security Operations Center (SOC) inside your browser with a 'Bring Your Own Key' (BYOK) architecture.*
 
