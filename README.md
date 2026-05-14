@@ -26,6 +26,8 @@
 
 Unlike traditional blocklists that rely on outdated databases, Trust VerifEye uses a **Two-Stage Triage Engine** to evaluate websites dynamically.
 
+> 🧠 **Want to see under the hood?** Read the full [Architecture & Engineering Post-Mortem](ARCHITECTURE.md) for a deep dive into the triage engine, performance optimizations, and security audits.
+
 ### Phase 1: 100-Point Heuristic Triage
 Before any network calls are made, the background service worker evaluates the current URL against a strict physical structural check:
 - **IP Address Resolution:** Flags domains bypassing DNS mapping.
@@ -78,11 +80,6 @@ As a cybersecurity tool, user privacy is the foundational design principle.
    <img width="1280" height="600" alt="soc1_4_11zon" src="https://github.com/user-attachments/assets/3e9be97e-b7da-4a14-97ea-c5dddf03f3ac" alt="Telemetry Dashboard">
   <p><i>The localized telemetry engine tracking your personal "Trust Quotient" and 7-day risk history.</i></p>
 </div>
-
-
- 
-
-
 
 
 
